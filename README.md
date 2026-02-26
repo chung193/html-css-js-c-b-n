@@ -1,29 +1,6 @@
-**Tài liệu học html** [html](https://www.codecademy.com/enrolled/courses/learn-html).
+# Welcome to GitHub Desktop!
 
-**Tài liệu css** [css](https://www.codecademy.com/learn/learn-css)
+This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-**Các khóa học tại w3school:** [link](https://www.w3schools.com/)
-
-# Bài 1: Trang Profile Cá Nhân
-
-### Yêu cầu
-
-** Tạo trang giới thiệu bản thân gồm:
-
-- Ảnh đại diện
-- Tên
-- Mô tả
-- Email
-- Nút “Liên hệ”
-
-# Bài 2: Form Đăng Ký
-
-### Tạo form gồm
-
-- Họ tên
-- Email
-- Mật khẩu
-- Giới tính
-- Nút submit
-
-Tham khảo ui các giao diện trên mạng
+Write your name on line 6, save it, and then head back to GitHub Desktop.
+minhtu-0112
